@@ -4,6 +4,7 @@
     external file - NONE
     list of file program creates - NONE
     programmer name - Archana Pogaku
+    email - archanapogaku@lewisu.edu
     course number - CPSC-60050-001
     section number - SU22
     finished date - 08-01-2023
