@@ -23,7 +23,7 @@
     resources -
         - https://datatofish.com/executable-pyinstaller/
           referred this docs to generate exe file from python file
-          `pyinstaller --onefile main.py` command from generation of exe file
+          `pyinstaller --onefile main.py` command for generation of exe file
 
 
 '''
